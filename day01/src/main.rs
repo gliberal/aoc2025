@@ -31,8 +31,6 @@ fn main() -> Result<(), Error> {
 
             while tmp_result < 0 {
                 tmp_result = 100 - tmp_result.abs();
-
-                println!("{}", "points at 0");
             }
         } else {
             tmp_result = current_dial_value + number;
