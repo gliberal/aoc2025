@@ -1,0 +1,9 @@
+# Cargo dir
+target/
+
+# Cargo lock
+Cargo.lock
+
+# IDE files (I use RustRover)
+.idea/
+
